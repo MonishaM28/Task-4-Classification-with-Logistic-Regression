@@ -56,11 +56,3 @@ pip install -r requirements.txt
 jupyter notebook notebooks/logistic_regression_project.ipynb
 ```
 
----
-
-## 🎯 Interview Prep Included
-The notebook includes answers to: logistic vs linear regression, sigmoid function, precision vs recall, ROC-AUC, confusion matrix, handling imbalance, threshold selection, and multi-class extension.
-
----
-
-✨ **Tip:** This project not only demonstrates Logistic Regression but also shows your ability to communicate insights clearly — a key recruiter expectation.
